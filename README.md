@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Creator and curator of [Infosec Party](https://infosec.party), an information and cybersecurity resource collection for those looking to get into the field, specifically to encourage and support blue team skills. Check it out if you're looking for cybersecurity project ideas or home lab setups!
+
+My personal blog, where I discuss video game design, hacking, and writing of all sorts, is over at [Advanced Persistent Fool](https://advancedpersistentfool.com/).
